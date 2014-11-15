@@ -1,0 +1,4 @@
+animitocons
+===========
+
+SVG animation experiments 
